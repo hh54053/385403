@@ -21,4 +21,4 @@
 我们了解用户对视频质量的需求，因此我们精选高清内容，保证影片画面清晰，播放流畅。无论是在手机、平板还是电脑上，你都能享受到顶级的观看体验。
 
 
-<span style="display:none;">[Canonical link](  ）</span>
+<span style="display:none;">[Canonical link](https://github.com/hh54053/385403 ）</span>
